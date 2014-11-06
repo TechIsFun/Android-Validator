@@ -5,7 +5,7 @@
 	<groupId>android-validator</groupId>
 	<artifactId>android-validator</artifactId>
 	<version>1.0</version>
-	<packaging>apklib</packaging>
+	<packaging>aar</packaging>
 
 	<name>Android-Validator</name>
 	
